@@ -1,0 +1,64 @@
+/* style.css */
+body {
+    margin: 0;
+    font-family: 'Noto Sans KR',sans-serif;
+}
+#sextion1 img {
+    width: 419px;
+    margin-top: 34px;
+}
+#sextion1 {
+    width: auto;
+    background-color: #ffde45;
+    padding-top: 80px;
+    padding-bottom: 40px;
+    text-align: center;
+    color: #5e5050;
+}
+#sextion2 {
+    width: auto;
+    background-color: #6c63ff;
+    padding-top: 80px;
+    padding-bottom: 0px;
+    text-align: center;
+    color: #fff;
+}
+#sextion3 {
+    width: auto;
+    background-color: #ffde45;
+    padding-top: 80px;
+    padding-bottom: 0px;
+    text-align: center;
+    color: #333;
+}
+#sextion2 img {
+    margin-top: 50px;
+    /* width: 195px; */
+}
+#sextion3 img {
+    width: 367px;
+}
+h2 {
+    font-size: 50px;
+    font-weight: 400;
+}
+p {
+    font-size: 24px;
+}
+.text-light {
+    font-weight: 300;
+}
+#footer h2 {
+    font-size: 36px;
+   
+}
+#footer {
+    background-color: #5e5050;
+    color: #fff;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+#footer a img {
+    width: 200px;
+}
